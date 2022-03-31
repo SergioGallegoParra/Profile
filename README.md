@@ -27,4 +27,4 @@ Projects of Power BI:
 
 ## Let's get connected:
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://twitter.com/SergioDGallegoP)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/apiSergioDGallegoP)](https://github.com/gazf/github-readme-twitter)
