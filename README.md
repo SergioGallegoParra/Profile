@@ -2,7 +2,7 @@
 
 ![3](https://user-images.githubusercontent.com/102633183/161151420-c06651ee-1445-4a21-a23a-05990a10cab2.gif)
 
-## 🚀 About Me!
+## 🚀 About Me
 
 
 I'm Sergio Gallego Parra, Junior Data Analyst 👨🏻‍💻 and passionate for data as a tool for business decisions 💼. I mostly have been working with VBA in order to automatize administrative process and generating reports through Excel and Power BI, in now I put all my effort to perfect my critical thinking and technical abilities to convert myself in a Expert Data Analyst. 
@@ -29,6 +29,3 @@ Projects of Power BI:
 ## Let's get connected:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=SergioDGallegoP&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
-
-![4](https://user-images.githubusercontent.com/102633183/161151509-54c26703-2ce3-44f0-9f41-de59fd1f1031.gif)
