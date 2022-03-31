@@ -1,8 +1,8 @@
-# ¡Hi there!
+# Hi there!
 
 ![3](https://user-images.githubusercontent.com/102633183/161151420-c06651ee-1445-4a21-a23a-05990a10cab2.gif)
 
-## 🚀 About Me![Uploading 3.gif…]()
+## 🚀 About Me!
 
 
 I'm Sergio Gallego Parra, Junior Data Analyst 👨🏻‍💻 and passionate for data as a tool for business decisions 💼. I mostly have been working with VBA in order to automatize administrative process and generating reports through Excel and Power BI, in now I put all my effort to perfect my critical thinking and technical abilities to convert myself in a Expert Data Analyst. 
