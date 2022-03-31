@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 ![3](https://user-images.githubusercontent.com/102633183/161151420-c06651ee-1445-4a21-a23a-05990a10cab2.gif)
 
