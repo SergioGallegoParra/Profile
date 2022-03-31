@@ -1,9 +1,15 @@
 # ¡Hi there!
+
+![Data](https://user-images.githubusercontent.com/102633183/161095771-b63893a3-79d7-470c-b10b-ed09b42bfc50.gif)
+
 ## 🚀 About Me
 
 I'm Sergio Gallego Parra, Junior Data Analyst 👨🏻‍💻 and passionate for data as a tool for business decisions 💼. I mostly have been working with VBA in order to automatize administrative process and generating reports through Excel and Power BI, in now I put all my effort to perfect my critical thinking and technical abilities to convert myself in a Expert Data Analyst. 
 
 In this Github repository I want to show you my work and progress analyzing different types of datasets using tools such as Excel, Power BI and, in the near future, Python.
+
+![2](https://user-images.githubusercontent.com/102633183/161095859-3198db56-082f-4fed-a96e-a83eedb91025.gif)
+
 
 Analysis with Excel: 
 
@@ -11,8 +17,6 @@ Projects of Power BI:
 
 
 ## 🛠 Tools that I use:
-
-
 
 
 ## 🔗 Links
