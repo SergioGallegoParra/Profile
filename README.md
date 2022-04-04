@@ -11,10 +11,9 @@ In this Github repository I want to show you my work and progress analyzing diff
 
 ![2](https://user-images.githubusercontent.com/102633183/161095859-3198db56-082f-4fed-a96e-a83eedb91025.gif)
 
+Portfolio:
 
-Analysis with Excel: 
-
-Projects of Power BI:
+1. [First analsysis project](https://github.com/SergioGallegoParra/Excel-Projects) with Excel
 
 
 ## 🛠 Tools that I use:
