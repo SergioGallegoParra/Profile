@@ -13,7 +13,7 @@ In this Github repository I want to show you my work and progress analyzing diff
 
 Portfolio:
 
-1. [First analsysis project](https://github.com/SergioGallegoParra/Excel-Projects) with Excel
+1. [First analysis project](https://github.com/SergioGallegoParra/Excel-Projects) with Excel
 
 
 ## 🛠 Tools that I use:
